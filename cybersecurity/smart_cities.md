@@ -24,3 +24,8 @@
 - ***Another self pondering... Potentially subsidize in exchange for data (already in effect) ***
 - Important to "de-identify" the data (that makes sense)
 - "code is law" creating an architecture that can be able to be upgradable and not obsolete
+- Lots of work to be done on privacy law
+- "when we are in public we have no expectations of privacy"
+- constant survallience w warrants... What constitutes the use of each
+- Smart City is a brand over an architecture 
+- pocurement activism
