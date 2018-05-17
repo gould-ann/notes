@@ -9,7 +9,7 @@
 - Used to get packet info on network
 - can listen in and see all packet details 
 
-####Domain Name Server(DNS)
+####Domain Name Server(DNS):
 
 - Removes the need for hard coded IP addresses
 
@@ -23,7 +23,7 @@
 
 - use with dig
 
-####SSH
+####SSH:
 
 - Secure shell
 
@@ -31,10 +31,14 @@
 
 - can brute force password
 
-####Firewalls 
+####Firewalls: 
 
 - **Uncomplicated filewall**
 
 - host based firewall
 
 - use netstat command 
+
+#####Burp Suite:
+
+- Used for testing web application security 
